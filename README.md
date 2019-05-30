@@ -1,0 +1,2 @@
+# majalahponsel
+wp-safelink
